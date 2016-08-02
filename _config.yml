@@ -4,7 +4,7 @@ markdown:            redcarpet
 highlighter:         pygments
 
 # Permalinks
-permalink:           /:title
+permalink:           https://diegopso.github.io/modern-blog-jekyll-sample/:title
 relative_permalinks: false
 
 # Setup
