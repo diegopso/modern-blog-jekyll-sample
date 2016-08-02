@@ -1,9 +1,9 @@
 
 # Syntax highlighting
-highlighter:         pygments
+highlighter:         rouogue
 
 # Permalinks
-permalink:           https://diegopso.github.io/modern-blog-jekyll-sample/:title
+permalink:           /modern-blog-jekyll-sample/:title
 relative_permalinks: false
 
 # Setup
@@ -16,11 +16,11 @@ description:         'description'
 url:                 site url
 rss:                 rss feed url
 baseurl:             '/modern-blog-jekyll-sample/'
-baseurl_posts_img:   '/assets/images/posts/'
-baseurl_featured_img: '/assets/images/hero/'
-baseurl_featured_thumbnail: '/assets/images/thumbnail/'
-baseurl_javascripts: '/assets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+baseurl_posts_img:   '/modern-blog-jekyll-sample/assets/images/posts/'
+baseurl_featured_img: '/modern-blog-jekyll-sample/assets/images/hero/'
+baseurl_featured_thumbnail: '/modern-blog-jekyll-sample/assets/images/thumbnail/'
+baseurl_javascripts: '/modern-blog-jekyll-sample/assets/javascripts/'
+icon:                /modern-blog-jekyll-sample/assets/img/icon.png [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
