@@ -1,6 +1,6 @@
 
 # Syntax highlighting
-highlighter:         rouogue
+highlighter:         rouoge
 
 # Permalinks
 permalink:           /modern-blog-jekyll-sample/:title
@@ -9,8 +9,8 @@ relative_permalinks: false
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
+name:				         Renata Munhoz da Rocha
+title:               Renata Munhoz da Rocha
 tagline:             'tagline'
 description:         'description'
 url:                 site url
@@ -24,8 +24,8 @@ icon:                /modern-blog-jekyll-sample/assets/img/icon.png [best 300px 
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
+  name:           	 Renata Munhoz da Rocha
+  url:            	 https://diegopso.github.io/modern-blog-jekyll-sample/
   facebook:          username
   twitter:           username
   google_plus:       username
